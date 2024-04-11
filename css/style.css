@@ -1,0 +1,32 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+h2{
+    color: rgb(42, 0, 81);
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+p{
+    color: rgb(42, 0, 81);
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+}
+
+li{
+    color: rgb(42, 0, 81);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+}
+
