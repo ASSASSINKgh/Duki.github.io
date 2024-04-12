@@ -10,10 +10,17 @@ h1{
 }
 
 h2{
-    color: rgb(42, 0, 81);
-    font-size: 22px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 800;
+    font-weight: 1000;
+}
+h3{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    text-align: center;
 }
 
 p{
@@ -24,9 +31,20 @@ p{
 }
 
 li{
-    color: rgb(42, 0, 81);
+    color: rgb(0, 0, 0);
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 1000;
 }
 
+a{
+    color: rgb(89, 17, 120);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+}
+
+.letraa{
+    margin: 0px 0px;
+    text-align: center;
+}
